@@ -1,0 +1,72 @@
+
+
+/* Add some styling for the input box and button */
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-box {
+    width: 50%;
+    height: 40px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+.submit-button {
+    width: 100px;
+    height: 40px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Add some styling for the input box and button */
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-box {
+    width: 50%;
+    height: 40px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+.submit-button {
+    width: 100px;
+    height: 40px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#chatbox {
+    height: 70%;
+    width: 80%;
+    margin: auto;
+    overflow-y: scroll;
+    }
+    
+    .user-message {
+    text-align: right;
+    }
+    
+    .bot-message {
+    text-align: left;
+    }
+    
+    #input
